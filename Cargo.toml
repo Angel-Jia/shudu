@@ -1,0 +1,7 @@
+[package]
+name = "shudu"
+version = "0.1.0"
+authors = ["SiKai Yao <1165524245@qq.com>"]
+edition = "2018"
+
+[dependencies]
